@@ -3,3 +3,5 @@ _pycache_/
 .venv/
 .pytest_cache/
 .ruff_cache/
+Dockerfile
+Jenkinsfile
